@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>A2Z Arabia!</h1>
-        <p>Your A2Z Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
+        <p>Your A2Z Elastic Beanstalk <em>PHP</em> A2Z application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP 5.6 version <?= phpversion() ?></p>
     </section>
 
