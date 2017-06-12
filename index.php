@@ -13,7 +13,7 @@ else
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Code Deploy Appication - AWS Elastic Beanstalk</title>
+    <title>Code Deploy Appication -GitHub </title>
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster+Two" type="text/css">
     <link rel="icon" href="https://awsmedia.s3.amazonaws.com/favicon.ico" type="image/ico" >
@@ -24,8 +24,8 @@ else
 <body>
     <section class="congratulations">
         <h1>AWS CODE-DEPLOY-Via Github</h1>
-        <p>Your Code Deploy Appk <em>PHP</em> code deploy application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
-        <p>You are running PHP 7.0 & httpd 2.4 Version <?= phpversion() ?></p>
+        <p>Your Code Deploy GitHub <em>PHP</em> code deploy application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
+        <p>You are running PHP 7.0 & httpd 2.4 Version!!! <?= phpversion() ?></p>
     </section>
 
     <section class="instructions">
