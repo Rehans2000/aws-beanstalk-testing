@@ -1,6 +1,7 @@
 <?php
 <?php
 <?php
+<?php
 $use1rname = "master";
 $password = "Masterrds123";dfadfdfadf
 $hostname = "dev-rds-a2z.cmiru3hmgmgq.eu-central-1.rds.amazonaws.com"; 
